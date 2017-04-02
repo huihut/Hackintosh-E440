@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string>double-click, 连按, click, 点按, track, 跟踪, drag, 拖移, faster, 较快, speed, 速度, slow, 慢, cursor, 光标, arrow, 箭头, pointer, 指针, clicking, tracking, dragging, slower, 较慢, slowing</string>
+				<key>title</key>
+				<string>触控板速度</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string>two, 两, 二, fingers, 手指, touch, 触摸, scroll, 滚动, drag, 拖移, pinch, 轻按, 捏, 捏放, zoom, 缩放, rotate, 旋转, swipe, 推送, 扫动, touching, 摸, scrolling, 滚, dragging, 拖, tapping, 按, pinching, 捏拢, zooming, 缩小, 放大, rotating, 转动, swiping</string>
+				<key>title</key>
+				<string>触控板手势</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>触控板缩放</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

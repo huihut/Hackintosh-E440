@@ -1,0 +1,76 @@
+33:421  7:334  Found UEFI Acpi 2.0 RSDP at DAFFE014
+33:421  0:000  Saving ACPI tables from RSDP DAFFE014 to EFI\CLOVER\ACPI\origin ...
+33:421  0:000   DAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+33:421  0:000    (Xsdt: DAFFE170, Rsdt: DAFFE0D4)
+33:421  0:000    DAFFE170: 'XSDT', 'TP-H0   ', Rev: 1, Len: 180
+33:421  0:000    DAFFE0D4: 'RSDT', 'TP-H0   ', Rev: 1, Len: 108
+33:421  0:000    Tables in Xsdt: 18
+33:421  0:000    0. DAFED000: 'FACP', 'TP-H0   ', Rev: 5, Len: 268
+33:421  0:000        (Dsdt: DAFEF000, Facs: DAF69000, XDsdt: DAFEF000, XFacs: 0)
+33:421  0:000        DAFEF000: 'DSDT', 'TP-H0   ', Rev: 2, Len: 46463
+33:421  0:000        DAF69000: 'FACS', Ver: 1, Len: 64
+33:421  0:000    1. DAFFD000: 'SLIC', 'TP-H0   ', Rev: 1, Len: 374
+33:421  0:000    2. DAFFC000: 'SSDT', 'SataAhci', Rev: 2, Len: 1304
+33:421  0:000    3. DAFFB000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1701
+33:421  0:000    4. DAFEE000: 'ASF!', 'TP-H0   ', Rev: 32, Len: 165
+33:421  0:000    5. DAFEB000: 'HPET', 'TP-H0   ', Rev: 1, Len: 56
+33:421  0:000    6. DAFEA000: 'APIC', 'TP-H0   ', Rev: 1, Len: 152
+33:421  0:000    7. DAFE9000: 'MCFG', 'TP-H0   ', Rev: 1, Len: 60
+33:421  0:000    8. DAFE8000: 'FPDT', 'TP-H0   ', Rev: 1, Len: 100
+33:421  0:000    9. DAFE7000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 2408
+33:421  0:000    10. DAFE6000: 'SSDT', 'CpuPm', Rev: 2, Len: 2850
+33:421  0:000    11. DAFE5000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 62
+33:421  0:000    12. DAFE4000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+33:421  0:000    13. DAF64000: 'POAT', 'TP-H0   ', Rev: 3, Len: 85
+33:421  0:000    14. DAFE3000: 'SSDT', 'IffsAsl', Rev: 2, Len: 208
+33:421  0:000    15. DAFE2000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 698
+33:421  0:000    16. DAFE1000: 'DBG2', 'TP-H0   ', Rev: 0, Len: 165
+33:421  0:000    17. DAFE0000: 'BGRT', 'TP-H0   ', Rev: 0, Len: 56
+33:421  0:000    Tables in Rsdt: 18
+33:421  0:000    0. DAFEC000: 'FACP', 'TP-H0   ', Rev: 4, Len: 244
+33:421  0:000        (Dsdt: DAFEF000, Facs: DAF69000, XDsdt: 0, XFacs: 0)
+33:421  0:000        DAFEF000: 'DSDT', 'TP-H0   ', Rev: 2, Len: 46463
+33:422  0:000        DAF69000: 'FACS', Ver: 1, Len: 64
+33:422  0:000    1. DAFFD000: 'SLIC', 'TP-H0   ', Rev: 1, Len: 374
+33:422  0:000    2. DAFFC000: 'SSDT', 'SataAhci', Rev: 2, Len: 1304
+33:422  0:000    3. DAFFB000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1701
+33:422  0:000    4. DAFEE000: 'ASF!', 'TP-H0   ', Rev: 32, Len: 165
+33:422  0:000    5. DAFEB000: 'HPET', 'TP-H0   ', Rev: 1, Len: 56
+33:422  0:000    6. DAFEA000: 'APIC', 'TP-H0   ', Rev: 1, Len: 152
+33:422  0:000    7. DAFE9000: 'MCFG', 'TP-H0   ', Rev: 1, Len: 60
+33:422  0:000    8. DAFE8000: 'FPDT', 'TP-H0   ', Rev: 1, Len: 100
+33:422  0:000    9. DAFE7000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 2408
+33:422  0:000    10. DAFE6000: 'SSDT', 'CpuPm', Rev: 2, Len: 2850
+33:422  0:000    11. DAFE5000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 62
+33:422  0:000    12. DAFE4000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+33:422  0:000    13. DAF64000: 'POAT', 'TP-H0   ', Rev: 3, Len: 85
+33:422  0:000    14. DAFE3000: 'SSDT', 'IffsAsl', Rev: 2, Len: 208
+33:422  0:000    15. DAFE2000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 698
+33:422  0:000    16. DAFE1000: 'DBG2', 'TP-H0   ', Rev: 0, Len: 165
+33:422  0:000    17. DAFE0000: 'BGRT', 'TP-H0   ', Rev: 0, Len: 56
+33:422  0:000  Found UEFI Acpi 1.0 RSDP at DAFFE000
+33:422  0:000  Printing ACPI tables from RSDP DAFFE000 ...
+33:422  0:000   DAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+33:422  0:000    (Rsdt: DAFFE038)
+33:422  0:000    DAFFE038: 'RSDT', 'TP-H0   ', Rev: 1, Len: 104
+33:422  0:000    Tables in Rsdt: 17
+33:422  0:000    0. DAFEC000: 'FACP', 'TP-H0   ', Rev: 4, Len: 244
+33:422  0:000        (Dsdt: DAFEF000, Facs: DAF69000, XDsdt: 0, XFacs: 0)
+33:422  0:000        DAFEF000: 'DSDT', 'TP-H0   ', Rev: 2, Len: 46463
+33:423  0:000        DAF69000: 'FACS', Ver: 1, Len: 64
+33:423  0:000    1. DAFFC000: 'SSDT', 'SataAhci', Rev: 2, Len: 1304
+33:423  0:000    2. DAFFB000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1701
+33:423  0:000    3. DAFEE000: 'ASF!', 'TP-H0   ', Rev: 32, Len: 165
+33:423  0:000    4. DAFEB000: 'HPET', 'TP-H0   ', Rev: 1, Len: 56
+33:423  0:000    5. DAFEA000: 'APIC', 'TP-H0   ', Rev: 1, Len: 152
+33:423  0:000    6. DAFE9000: 'MCFG', 'TP-H0   ', Rev: 1, Len: 60
+33:423  0:000    7. DAFE8000: 'FPDT', 'TP-H0   ', Rev: 1, Len: 100
+33:423  0:000    8. DAFE7000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 2408
+33:423  0:000    9. DAFE6000: 'SSDT', 'CpuPm', Rev: 2, Len: 2850
+33:423  0:000    10. DAFE5000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 62
+33:423  0:000    11. DAFE4000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+33:423  0:000    12. DAF64000: 'POAT', 'TP-H0   ', Rev: 3, Len: 85
+33:423  0:000    13. DAFE3000: 'SSDT', 'IffsAsl', Rev: 2, Len: 208
+33:423  0:000    14. DAFE2000: 'UEFI', 'TP-H0   ', Rev: 1, Len: 698
+33:423  0:000    15. DAFE1000: 'DBG2', 'TP-H0   ', Rev: 0, Len: 165
+33:423  0:000    16. DAFE0000: 'BGRT', 'TP-H0   ', Rev: 0, Len: 56

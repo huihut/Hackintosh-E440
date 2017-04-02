@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>이중 클릭, 클릭, 트랙, 드래그, 빠르게, 속도, 느리게, 커서, 화살표, 포인터, 클릭하기, 이동하기, 드래그하기, 느리게, 느림</string>
+				<key>title</key>
+				<string>트랙패드 이동 속도</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>2개, 손가락, 터치, 스크롤, 드래그, 탭, 살짝 누르기, 손가락을 오무리거나 펴기, 집기, 확대/축소, 회전, 쓸어 넘기기, 터치하기, 스크롤하기, 드래그하기, 탭하기, 핀치, 확대/축소하기, 회전하기, 쓸어넘기기</string>
+				<key>title</key>
+				<string>트랙패드 동작</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>트랙패드 확대/축소하기</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

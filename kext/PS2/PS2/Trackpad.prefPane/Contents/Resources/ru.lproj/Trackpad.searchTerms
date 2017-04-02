@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>двойной щелчок, нажатие, щелчок, перетягивание, перетаскивание, быстрее, скорость, медленнее, курсор, указатель, стрелка, указатель мыши, нажатия, скорость перемещения, перетягивание, медленно, замедление</string>
+				<key>title</key>
+				<string>Скорость перемещения</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>два, пальцы, прикосновение, прокрутка, перетягивание, нажатие, масштабировать, изменение масштаба, повернуть, перелистнуть, прикосновение, прокручивание, перетаскивание, касание, масштабирование, вращение, смахивание</string>
+				<key>title</key>
+				<string>Жесты трекпада</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Изменение масштаба на трекпаде</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>kaksoisosoita, kaksoisnapsauta, osoita, klikkaa, napsauta, napsautus, seuraa, vedä, nopeammin, nopeus, hidas, kohdistin, nuoli, osoitin, osoittaminen, seuranta, vetäminen, hitaammin, hidastua</string>
+				<key>title</key>
+				<string>Ohjauslevyn nopeus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>kaksi, sormet, kosketa, rullaa, vieritä, vedä, napauta, nipistä, zoomaa, pyöritä, pyyhkäise, kosketus, vieritys, veto, napautus, nipistys, zoomaus, pyöritys, pyyhkäisy</string>
+				<key>title</key>
+				<string>Ohjauslevyn eleet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ohjauslevyn zoomaus</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
