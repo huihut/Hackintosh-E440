@@ -1,1 +1,0 @@
-ThinkPad E440 的 EFI 分区和 config.plist 配置文件
